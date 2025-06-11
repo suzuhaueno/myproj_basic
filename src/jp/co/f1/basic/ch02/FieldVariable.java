@@ -14,6 +14,7 @@ public class FieldVariable {
 		com.os ="windowsXP";
 		com.memory = 2048;
 		
+		//コメント
 		System.out.println("パソコンのOSは「" + com.os + "」です。");
 		System.out.println("メモリのサイズは「" + com.memory + "MByte」です。");
 

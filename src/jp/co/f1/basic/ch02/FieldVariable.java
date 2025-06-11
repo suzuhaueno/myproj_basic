@@ -9,6 +9,7 @@ public class FieldVariable {
 
 	public static void main(String[] args) {
 
+		//test kawasaki
 		Computer2 com = new Computer2();
 
 		com.os ="windowsXP";

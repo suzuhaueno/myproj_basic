@@ -18,6 +18,7 @@ public class FieldVariable {
 		System.out.println("パソコンのOSは「" + com.os + "」です。");
 		System.out.println("メモリのサイズは「" + com.memory + "MByte」です。11");
 		System.out.println();
+		//奥谷
 	}
 
 }

@@ -19,7 +19,7 @@ public class FieldVariable {
 		System.out.println("メモリのサイズは「" + com.memory + "MByte」です。11");
 		System.out.println();
 		//奥谷
-		//碧と
+		//上野
 	}
 
 }
